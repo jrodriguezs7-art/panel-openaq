@@ -118,10 +118,10 @@ _Agregar aquí las capturas de: página de ubicaciones, sensores de una ubicaci�
 
 ## 👤 Autor
 
-- **Nombre:** _[Tu nombre]_
-- **Materia / Curso:** _[Nombre de la materia]_
-- **Institución:** _[Nombre de la institución]_
+- **Nombre:** _Rodriguez Jehiel_
+- **Materia / Curso:** _8vo Telemática_
+- **Institución:** _UNIVERSIDAD TÉCNICA ESTATAL DE QUEVEDO_
 
 ## 📄 Licencia
 
-Proyecto desarrollado con fines académicos. Los datos son provistos por [OpenAQ](https://openaq.org/) bajo licencia CC BY 4.0.
+Proyecto desarrollado con fines académicos. Los datos son provistos por bajo licencia CC BY 4.0.
